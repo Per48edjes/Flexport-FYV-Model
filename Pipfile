@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+jupyterlab = "*"
+pandas = "*"
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+seaborn = "*"
+sklearn = "*"
+statsmodels = "*"
+ipywidgets = ">=7.2"
+snowflake-connector-python = "*"
+nbstripout = "*"
+nbdime = "*"
+eli5 = "*"
+xlrd = "*"
+pandas-profiling = "*"
+
+[requires]
+python_version = "3.7"
