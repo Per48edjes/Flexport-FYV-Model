@@ -2,10 +2,6 @@
 
 Repository for EDA & developing a model to estimate the first-year-value (in ~net~ gross revenue) for an account (per SFDC).
 
-Additional context can be found in [this doc](https://docs.google.com/document/d/1Bus3VymK8ygPZo-R4a9YmtPu6GkvaeBiSjfBsdqRQfA/edit#).
-
-Working [data dictionary](https://docs.google.com/spreadsheets/d/1eT4musLyra--xLqQqnbohEi86XwJQuQTOUb42CC6X2A/edit#gid=0)
-
 ---
 
 ## Getting Setup
